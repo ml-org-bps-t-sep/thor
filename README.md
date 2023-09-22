@@ -1,2 +1,1 @@
-# thor
-A general purpose blockchain highly compatible with Ethereum's ecosystem
+788f6d06bbbb6bea25c7c1f2bc861b36117a6d26
